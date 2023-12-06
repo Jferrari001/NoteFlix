@@ -1,0 +1,125 @@
+.fundo-padrao{
+    width: 90%;
+    height: 100%;
+}
+
+.card-padrao{
+    background-color: rgba(243, 243, 243, 0.98);
+    border-radius: 20px !important;
+    border: 2px solid !important;
+    height: 100% !important;
+}
+
+.auto-size-img{
+    width: 130%;
+    height: auto;
+}
+
+.drop-zone:hover .dropzone-msg-title{
+    opacity: 0.7;
+}
+
+.dropzone .dz-preview .dz-image {
+    width: auto;
+    height: auto;
+}
+
+.drop-zone{
+    width: 100%;
+    height: auto;
+}
+
+.select2-container {
+    width: 100% !important;
+}
+
+/* .datatable-altura{
+    min-height: 520px;
+} */
+
+.tabela-noteflix {
+    opacity: 0.95 !important; }
+
+/*.tabela-noteflix th:not(.table-cell-center) span, .tabela-noteflix td:not(.table-cell-center) > span, .tabela-noteflix td:not(.table-cell-center) > div {
+    padding-left: 1.55rem !important;    
+}*/
+
+.tabela-noteflix tbody tr td span:first-child {
+    padding-left: 1.55rem !important;
+    padding-right: 1.55rem !important;     
+}
+  
+.tabela-noteflix th {
+background-color: #000000; }
+
+.tabela-noteflix tbody {
+    background-color: #eeeeee; }
+
+.tabela-noteflix tbody tr {
+    border-bottom: 1px solid #b1b1b1; }
+
+.tabela-noteflix th span {
+    color: white !important;
+    text-transform: capitalize !important;
+    font-weight: normal !important; }
+
+.tabela-noteflix th:last-child {
+border-top-right-radius: 0.42rem;
+border-bottom-right-radius: 0.42rem; }
+
+.tabela-noteflix th:first-child {
+border-top-left-radius: 0.42rem;
+border-bottom-left-radius: 0.42rem; }
+
+.tabela-noteflix .datatable-pager-link-active {
+background-color: #000000 !important; }
+
+.tabela-noteflix .datatable-pager-link:hover:not(.datatable-pager-link-disabled) {
+background-color: #000000 !important; }
+
+.tabela-noteflix .flaticon2-arrow-up, .tabela-noteflix .flaticon2-arrow-down {
+color: white !important; }
+
+.datatable.datatable-default.tabela-noteflix > .datatable-pager > .datatable-pager-info .datatable-pager-size .btn.dropdown-toggle:hover {
+background-color: #000000 !important; }
+
+.select2-search__field{
+    margin-bottom: 2.26px;
+}
+
+input.form-control{
+    min-height: 39.80px !important;
+}
+
+.select2-selection{
+    min-height: 39.80px !important;
+}
+
+.procurar-linha:hover{
+    background-color: rgba(223, 223, 223, 0.8);
+}
+
+.titulo-hover:hover{
+    color: blue !important;    
+}
+
+.disclaimer{
+    display: none !important;
+}
+
+.foto-fixa{
+    width: 310px !important;
+    height: 420px !important;
+}
+
+.btn-noteflix {
+    color: #ffffff;
+    background-color: #696eff;
+    border-color: #7156dd;
+}
+
+.btn-noteflix:hover {
+    color: #ffffff;
+    background-color: #8174eb;
+    border-color: #8e75b7;
+}
